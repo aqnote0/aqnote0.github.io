@@ -28,7 +28,7 @@ twitter_username: _aqnote
 github_username:  aqnotecom
 
 # Build settings
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-archives
