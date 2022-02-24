@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-site: https://www.aqnote.com
+记录一些思考、STEM、以及读书笔记等
