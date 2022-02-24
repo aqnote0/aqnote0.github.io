@@ -39,7 +39,6 @@ plugins:
 markdown: kramdown
 kramdown:
   math_engine: katex
-usemathjax: true
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
