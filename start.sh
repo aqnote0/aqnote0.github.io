@@ -1,5 +1,5 @@
 #!/bin/bash
 
-bundle exec jekyll serve --port 8080
+nohup bundle exec jekyll serve --port 8080 &
 
 exit 0
