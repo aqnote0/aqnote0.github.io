@@ -32,6 +32,6 @@ end
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 # markdown parse engine
-gem 'kramdown', '~> 2.3.1'
+gem 'kramdown', '>= 2.3.1'
 gem "kramdown-math-katex"
 gem 'kramdown-parser-gfm', '~> 1.1'
